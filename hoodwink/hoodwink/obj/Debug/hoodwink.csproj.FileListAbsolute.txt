@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\hoodwink\hoodwink\bin\Debug\hoodwink.exe.config
+C:\Users\Admin\source\repos\hoodwink\hoodwink\bin\Debug\hoodwink.exe
+C:\Users\Admin\source\repos\hoodwink\hoodwink\bin\Debug\hoodwink.pdb
+C:\Users\Admin\source\repos\hoodwink\hoodwink\obj\Debug\hoodwink.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\hoodwink\hoodwink\obj\Debug\hoodwink.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\hoodwink\hoodwink\obj\Debug\hoodwink.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\hoodwink\hoodwink\obj\Debug\hoodwink.exe
+C:\Users\Admin\source\repos\hoodwink\hoodwink\obj\Debug\hoodwink.pdb
